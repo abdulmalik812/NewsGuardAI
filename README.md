@@ -1,7 +1,6 @@
 # NewsGuardAI
 
 ## Overview
-![Fake News Detection](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Fake_news.svg/1200px-Fake_news.svg.png)
 NewsGuardAI is a machine learning-based system designed to classify news articles as **Fake** or **Real**. With the rise of misinformation, this project aims to enhance the detection of deceptive news by leveraging advanced Natural Language Processing (NLP) and machine learning techniques. The goal is to improve classification accuracy compared to existing research.
 
 ## Project Pipeline
@@ -33,7 +32,6 @@ The dataset consists of labeled news articles with their **title**, **content**,
 
 ## How to Run
 
-![Project Workflow](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Workflow_example.svg/1200px-Workflow_example.svg.png)
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/yourusername/NewsGuardAI.git
